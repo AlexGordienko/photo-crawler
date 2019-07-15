@@ -15,8 +15,8 @@ def main():
 
     i = 0
     for filename in os.listdir(directory):
-        newName = directory + str(location) + str(date) + str(credit) + str(i) + ".jpg"
-        oldName = directory + filename
+        newName = directory + "/" + str(location) + str(date) + str(credit) + str(i) + ".jpg"
+        oldName = directory + "/" + filename
 
         os.rename(oldName, newName)
         i += 1
