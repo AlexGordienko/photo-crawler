@@ -3,7 +3,7 @@ A simple script to change the names of photos in a directory in bulk for easier 
 
 ## Getting Started
 
-This script is written in Python 3, so please make sure that you have (Python 3)[https://www.python.org/downloads/] installed.
+This script is written in Python 3, so please make sure that you have [Python 3](https://www.python.org/downloads/) installed.
 
 ## Usage
 
