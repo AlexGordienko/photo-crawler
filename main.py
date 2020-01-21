@@ -1,6 +1,6 @@
 import os
 
-# Function to rename multiple files
+# Function to rename multiple photos
 def main():
     # ask user for some info about photos on run.
     print("Please follow the instructions below. You will be asked some "
