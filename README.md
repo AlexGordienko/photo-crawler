@@ -7,7 +7,7 @@ This script is written in Python 3, so please make sure that you have [Python 3]
 
 ## Usage
 
-For detailed guidelines about how this script works please view this blog post.
+For detailed guidelines about how this script works please view this [blog post](https://blog.alexgordienko.com/renaming-photos-in-bulk-with-python/).
 
 Either run the function from your IDE or execute the following script to run it from your CLI:
 
